@@ -6,4 +6,4 @@ Disallow: /images/
 
 Allow: /
 
-Sitemap: https://ТВОЙ-АДРЕС.github.io/ТВОЙ-РЕПОЗИТОРИЙ/sitemap.xml
+Sitemap: https://mirra-ost.github.io/my-portfolio/sitemap.xml
